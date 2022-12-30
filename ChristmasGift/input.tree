@@ -1,0 +1,8 @@
+def ins : { = a 1; = b 114514; }
+itn a = 114514
+run ins
+print a
+= a 1919810
+print a
+run ins
+print a
