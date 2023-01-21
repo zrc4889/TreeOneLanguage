@@ -9,7 +9,7 @@ using namespace std;
 // 2022年12月23日12点57分：实现定义代码块，由于技术原因仅支持赋值操作；可能重写
 // todo 实现加减乘除
 // todo 实现初等函数
-
+ 
 typedef long long llint;
 
 struct Vars
